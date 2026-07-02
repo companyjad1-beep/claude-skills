@@ -1,0 +1,13 @@
+{
+  "name": "limch-skills",
+  "owner": {
+    "name": "companyjad1-beep"
+  },
+  "plugins": [
+    {
+      "name": "kickoff",
+      "source": "./plugins/kickoff",
+      "description": "새 프로젝트 킥오프 — 딥 인터뷰로 PRD·브랜드·디자인·화면구조·결정기록 문서를 일괄 세팅하고 외부 서비스까지 연결"
+    }
+  ]
+}
