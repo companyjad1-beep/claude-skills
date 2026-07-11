@@ -13,7 +13,7 @@ Claude Code 스킬 모음 마켓플레이스.
 
 ### kickoff — 프로젝트 킥오프
 
-> **이관 공지 (2026-07-11)**: kickoff의 개발 원본은 [brt-plugin](https://github.com/companyjad1-beep/brt-plugin)으로 옮겨졌습니다. 이 레포의 kickoff는 v0.3에서 동결되며, 최신판은 brt-plugin 설치로 받으세요. (marketing-plan은 이 레포에서 계속 관리)
+> **이관 공지 (2026-07-11)**: kickoff·marketing-plan의 개발 원본은 [brt-plugin](https://github.com/companyjad1-beep/brt-plugin)으로 옮겨졌습니다. 이 레포는 v0.3에서 동결 — 최신판은 brt-plugin 설치로 받으세요.
 
 새 프로젝트를 시작할 때 `/kickoff` 한 번으로:
 
