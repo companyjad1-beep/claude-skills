@@ -13,6 +13,8 @@ Claude Code 스킬 모음 마켓플레이스.
 
 ### kickoff — 프로젝트 킥오프
 
+> **이관 공지 (2026-07-11)**: kickoff의 개발 원본은 [brt-plugin](https://github.com/companyjad1-beep/brt-plugin)으로 옮겨졌습니다. 이 레포의 kickoff는 v0.3에서 동결되며, 최신판은 brt-plugin 설치로 받으세요. (marketing-plan은 이 레포에서 계속 관리)
+
 새 프로젝트를 시작할 때 `/kickoff` 한 번으로:
 
 1. **딥 인터뷰** — 소크라테스식 질문(한 번에 하나, 추천안 포함)으로 제품 정의·범위·스택·브랜드/디자인·운영 규칙 5개 트랙을 확정. 초보자 눈높이 설명 내장. 확정된 결정은 즉시 파일로 남아 세션이 끊겨도 이어서 재개
